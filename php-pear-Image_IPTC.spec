@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.2
-Release:	15
+Release:	16
 Summary:	Extract, modify, and save IPTC data
 License:	PHP License
 Group:		Development/PHP
