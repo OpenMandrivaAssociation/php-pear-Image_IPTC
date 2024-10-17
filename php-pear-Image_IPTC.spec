@@ -8,7 +8,7 @@ Release:	16
 Summary:	Extract, modify, and save IPTC data
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Image_IPTC/
+URL:		https://pear.php.net/package/Image_IPTC/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
